@@ -1,5 +1,5 @@
 # SAIT Web Development
-# CPNT 260: Web Page Construction Fundamentals
+# CPNT 201: 
 ## Assignment 4 
 
 # Author Name:
@@ -18,3 +18,7 @@ https://13retonnian.github.io/cpnt201-a2/
 I did everything without changing the image distinction.
 ## How did you fix it?:
 went back and did it again and added small med large text to images.
+
+
+Coded by Christopher Barber class SAIT cpnt201 Fall 2021
+Credit to Ashlyn Knox's github code https://github.com/lilyx13/srcset-demo-code

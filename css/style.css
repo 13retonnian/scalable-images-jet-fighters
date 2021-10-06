@@ -1,4 +1,6 @@
 
+/* Coded by Christopher Barber class SAIT cpnt201 Fall 2021
+Credit to Ashlyn Knox's github code https://github.com/lilyx13/srcset-demo-code */
 html {
   background-image: url('../assets/images/jet-background.jpg');    
   background-repeat: no-repeat;		
@@ -17,4 +19,8 @@ img {
   display: block;
   width: 100%;
   margin: 3rem auto;
+}
+footer{
+  color: white;
+  display: block;
 }
