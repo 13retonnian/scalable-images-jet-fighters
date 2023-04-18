@@ -9,7 +9,7 @@ Christopher Barber
 ## Github Repo:
 https://github.com/13retonnian/cpnt201-a2
 ## Github Pages:
-https://13retonnian.github.io/cpnt201-a2/
+[https://13retonnian.github.io/cpnt201-a2/](https://13retonnian.github.io/scalable-images-jet-fighters/)
 
 ### Code Review (less than 500 words):
 
